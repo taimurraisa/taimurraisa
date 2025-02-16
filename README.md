@@ -1,9 +1,6 @@
 ## Hi I'm Raisa
 Studying computer science at Brac University.
-
-# 💫 About Me:
 I'm learning Java OOP & Data communication.<br> 
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rafiataimur.raisa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafia-taimur-raisa-7484aa351/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taimurraisa@gmail.com) 
